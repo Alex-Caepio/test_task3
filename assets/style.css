@@ -1,0 +1,50 @@
+.columns {
+    position: relative;
+    margin: 10px;
+}
+
+.col-sm-6 {
+    position: relative;
+    margin: 10px;
+}
+
+p.name_error {
+    position: absolute;
+    top: -10px;
+    left: 250px;
+}
+
+p.login_error {
+    position: absolute;
+    top: -10px;
+    left: 250px;
+}
+
+p.password_error {
+    position: absolute;
+    top: -10px;
+    left: 250px;
+}
+
+p.confirm_password_error {
+    position: absolute;
+    top: -10px;
+    left: 330px;
+}
+
+p.email_error {
+    position: absolute;
+    top: -10px;
+    left: 250px;
+}
+
+p.login_exists_error {
+    position: absolute;
+    top: -10px;
+    left: 250px;
+}
+
+
+
+
+
