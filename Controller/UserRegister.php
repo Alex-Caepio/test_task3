@@ -37,7 +37,6 @@ class UserRegister extends BaseController
             die();
         } else {
             $this->saveUser();
-            header('Location: https://google.com');
         }
     }
 

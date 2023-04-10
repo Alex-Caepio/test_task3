@@ -42,7 +42,6 @@ class LoginUser extends BaseController
             setcookie('login', $login, time() + 3600, '/');
         }
     }
-
 }
 
 $userLogin = new LoginUser();
